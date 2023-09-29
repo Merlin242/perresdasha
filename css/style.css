@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1360px;
+}
+.header{
+    height: 198px;
+}
+.header__wrap{
+    display: flex;
+    margin-top:  40px; ;
+    justify-content: space-between;
+}
+.header__text{
+    display: flex;
+    justify-content: space-between;
+}
+.header__logo{
+    margin-left: 163px;
+}
+.text{
+    margin-left: 501px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 10px;
+    color: #202336;
+
+}
+.text1{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #B8BECD;
+    margin-top: 10px;
+
+}
+.header__btns{
+    margin-top: -48px;
+}
+.btn__login{
+    margin-top: -1px;
+    background:#ffffff;
+    color:#FFFFFF;
+    width: 132px;
+    height: 44px;
+    top: 35px;
+    left: 1128px;
+    border-radius: 8px;
+    border: #d66f00;
+    margin-top: -10px;
+    
+}
+.btn__Register{
+    margin-top: -1px;
+    width: 132px;
+    height: 44px;
+    top: 43px;
+    left: 1278px;
+    border: none;
+    border-radius: 8px;
+    color: #FFFFFF;
+   background: #FB8F1D;
+}
+.plan__wrap{
+    margin-left: 160px;
+    height: 786px;
+}
+.icon{
+     margin-left: 750px;
+    margin-top: -809px;
+
+}
+.text2{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 80px;
+    width: 400px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 100px;
+
+}
+.text3{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    width:  449px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 70px;
+
+}
+.search{
+    width: 400px;
+    
+}
+.search1{
+    width: 198px;
+    margin-top: 17px;
+    height: 30px;
+}
+.btn{
+    width: 157px;
+    height: 40px;
+    margin-top: 50px;
+    border: none;
+    top: 718px;
+    left: 190px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    background: #FB8F1D;
+
+}
+.word__wrap{
+    margin-left: 140px;
+}
+.word__text{
+    margin-left: 800px;
+    margin-top: -400px;
+}
+.word__text h2{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.word__text p{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 50px;
+
+}
+.word__icon{
+    margin-top: 50px;
+}
+.btn_leo{
+    width: 154px;
+    height: 48px;
+    top: 1240px;
+    left: 933px;
+    border-radius: 8px;
+    border: none;
+    background: #FB8F1D;
+    color: #FFFFFF;
+
+}
